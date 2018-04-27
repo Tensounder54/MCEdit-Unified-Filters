@@ -27,6 +27,12 @@ To download a filter go to its folder and click on the `.py` file. Then right cl
 
 ![Raw](https://user-images.githubusercontent.com/11940194/28982508-1139eb0a-794e-11e7-80df-9e76ae8da07f.png)
 
+Credit to gentlegiantJGC for the image.
+
+- [GitHub](https://github.com/gentlegiantJGC)
+- [Reddit](https://www.reddit.com/user/gentlegiantJGC)
+- Discord: gentlegiantJGC#9219
+
 ## Contribution ##
 
 If you want to fork this repo and do something with it feel free as long as you follow the terms in the licence.html. You can also find more info in legal.md.
